@@ -1,0 +1,2 @@
+# Get-gitattributes-file
+.gitattribute
